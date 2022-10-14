@@ -40,6 +40,6 @@ Files | Description
 
 ## Authors
 
-# Monday Odoh Onwe And Fagbohun oluwapelumi favour
+# Stephen Chuks && Irene Ogutu
 
 Cohort 7 2022/2023 Academic year - ALX - Holberton School.
